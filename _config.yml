@@ -1,0 +1,8 @@
+name: KomaClick
+url: http://komaclick.com
+description: Shorter stories so you can read faster.
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
