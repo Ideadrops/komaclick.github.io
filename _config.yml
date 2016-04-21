@@ -1,6 +1,6 @@
 name: KomaClick
 url: http://komaclick.com
-description: Shorter stories so you can read faster.
+description: We write summaries so you can read faster.
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
